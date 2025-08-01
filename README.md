@@ -1,9 +1,9 @@
 # Violence Alert System (FINAL YEAR PROJECT)
 A  violence detector using `MobileNetV2` pretrained model and image enhancement algorithms and face detection algorithms implemented using Python, including an alert system built using telegram for alerting concerned authorities, and all data stored neatly in cloud firestore.
 
-DEMO VIDEO: https://youtu.be/_p3IgezRqwE
 
-## FOR DOING THE PROJECT FOR YOU, WHATSAPP AT +91 9074048360, (THERE WILL BE A PRICE)
+
+
 
 ## Architecture Diagram
 <img src="Documents/WhatsApp Image 2022-05-31 at 7.28.08 PM.jpeg">
@@ -32,5 +32,4 @@ All the data, ie, the date, obtained image and the 'detected faces image' are st
 
 ## Project done ✔✔
 
-## The Team ❤
-<img src="Documents/IMG_20220601_154920.jpg">
+
